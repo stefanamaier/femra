@@ -445,7 +445,7 @@ body, #container-wrap { background:#000; }
 #slider { width:1920px; height:1080px; }
 .page-scale-wrap { width:1920px; height:1080px; background: #fff !important; }
 .paper-vertical { width:1920px; height:100%; }
-.paper-horizontal { width:25090px; height:1092px; }
+.paper-horizontal { width:27020px; height:1092px; }
 nav#page-nav { display:none; }
 html.nav-transition nav#page-nav { opacity:.3; pointer-events:none; }
 nav#page-nav > button {
@@ -835,6 +835,20 @@ html[data-dir="rtl"] #viewer-thumb-wrap { direction:rtl; }
 	height:126px !important;
 	left:20px !important;
 	top:874px !important;
+}
+
+#item6208 {
+	width:1880px !important;
+	height:724px !important;
+	left:20px !important;
+	top:144px !important;
+}
+
+#item6180 {
+	width:1880px !important;
+	height:106px !important;
+	left:20px !important;
+	top:894px !important;
 }
 
 #item966 {
